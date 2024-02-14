@@ -1,4 +1,4 @@
-= Abordar la Crísis
+= Abordar las Crísis
 
 [example]
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor sit amet odio faucibus ornare ac eu enim. Nunc non mi accumsan, congue erat vitae, gravida quam. Etiam ex nisi, accumsan id commodo id, tempus vel tortor. Proin varius scelerisque vehicula. Maecenas auctor eros odio, ac pellentesque turpis maximus vel. Fusce quis tincidunt lorem, id mattis massa. Nam efficitur magna sed urna ultrices, eget viverra tellus consequat. Nam non viverra nulla, vel auctor massa. Nullam at cursus orci. Sed finibus ex sit amet porta lacinia. Suspendisse at ex eu sapien euismod pharetra non in enim.
