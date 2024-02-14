@@ -1,12 +1,23 @@
 = Derecho
 
-[example]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor sit amet odio faucibus ornare ac eu enim. Nunc non mi accumsan, congue erat vitae, gravida quam. Etiam ex nisi, accumsan id commodo id, tempus vel tortor. Proin varius scelerisque vehicula. Maecenas auctor eros odio, ac pellentesque turpis maximus vel. Fusce quis tincidunt lorem, id mattis massa. Nam efficitur magna sed urna ultrices, eget viverra tellus consequat. Nam non viverra nulla, vel auctor massa. Nullam at cursus orci. Sed finibus ex sit amet porta lacinia. Suspendisse at ex eu sapien euismod pharetra non in enim.
+La restauración del Estado de Derecho en Venezuela es un proceso complejo que requiere la participación activa de todos los actores involucrados en la sociedad venezolana. A continuación, se presentan algunas medidas que podrían ser implementadas para restaurar el Estado de Derecho en Venezuela:
 
-[NOTE]
-[caption="Nota"]
-Ut nec est aliquet, accumsan est at, placerat lectus. Curabitur vulputate purus eu tellus cursus eleifend. Suspendisse faucibus sit amet justo sit amet tincidunt. Quisque quis tortor tristique, condimentum sem sit amet, convallis tellus. Quisque vestibulum dignissim libero, et pharetra ex laoreet eu. Cras vehicula, mi vel imperdiet tempus, odio erat commodo lectus, quis tempus felis odio vitae nisl. Aenean placerat libero sit amet elit interdum suscipit. Etiam ut nisl ut nisl pharetra aliquam. Quisque maximus eu libero at consectetur. Fusce mauris tellus, sodales ac bibendum vel, consectetur sit amet augue. Curabitur at odio erat. Fusce rhoncus porttitor nisl ac elementum.
+== Fortalecimiento de las instituciones democráticas
+Se deben fortalecer las instituciones democráticas en Venezuela, incluyendo el Poder Judicial, la Asamblea Nacional y el Ministerio Público, para garantizar su independencia y eficacia. Esto implica también la necesidad de garantizar la libertad de prensa y la independencia de los medios de comunicación.
 
-[IMPORTANT]
-[caption="Importante"]
-Pellentesque posuere, urna sed varius volutpat, elit dolor auctor mauris, quis tristique eros magna sit amet tortor. Praesent quis fermentum risus. Mauris eu mattis nulla, vitae fermentum erat. Pellentesque sed facilisis turpis. Fusce dapibus sem dui, eget finibus diam convallis et. Donec et ultricies dui. In ex felis, tristique eget mauris varius, tempus rutrum arcu. Sed varius efficitur mi ut lacinia. Phasellus vitae dolor imperdiet sapien tempor malesuada. Vivamus eget viverra arcu. Fusce nec magna feugiat, varius lacus elementum, tincidunt velit. https://github.com/orgs/redcuadrangular/discussions[discutir propuestas] o solicitar características y mejoras creando una https://github.com/redcuadrangular/docs/issues/new/choose[Nueva Incidencia]
+== Protección de los derechos humanos
+Se debe garantizar la protección de los derechos humanos, incluyendo la libertad de expresión, la libertad de asociación y la libertad de reunión pacífica. También se debería tomar medidas para garantizar el acceso a la justicia y para prevenir la tortura y otros tratos inhumanos o degradantes.
+
+== Lucha contra la corrupción
+Se debe tomar medidas efectivas para combatir la corrupción en todas las esferas de la sociedad. Esto implica la necesidad de fortalecer los órganos encargados de investigar y sancionar la corrupción, así como de establecer medidas para prevenir su ocurrencia.
+
+== Reforma del sistema de seguridad
+Se debería llevar a cabo una reforma integral del sistema de seguridad en Venezuela, incluyendo la formación y profesionalización de las fuerzas de seguridad y la reforma del sistema penitenciario.
+
+== Fomento del diálogo y la reconciliación
+Es necesario fomentar el diálogo y la reconciliación entre las diferentes fuerzas políticas y sociales en Venezuela. Esto implica la necesidad de establecer canales de diálogo efectivos y la búsqueda de consensos entre los distintos actores.
+
+== Cooperación internacional
+La cooperación internacional es esencial para restaurar el Estado de Derecho en Venezuela. Los organismos internacionales y los gobiernos extranjeros deberían proporcionar asistencia técnica y financiera para apoyar las reformas necesarias.
+
+La restauración del Estado de Derecho en Venezuela requiere un esfuerzo conjunto y sostenido de todos los actores involucrados en la sociedad. La implementación de las medidas mencionadas anteriormente podría contribuir significativamente a este proceso.

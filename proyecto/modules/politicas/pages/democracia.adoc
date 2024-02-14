@@ -1,12 +1,22 @@
 = Democracia
 
-[example]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor sit amet odio faucibus ornare ac eu enim. Nunc non mi accumsan, congue erat vitae, gravida quam. Etiam ex nisi, accumsan id commodo id, tempus vel tortor. Proin varius scelerisque vehicula. Maecenas auctor eros odio, ac pellentesque turpis maximus vel. Fusce quis tincidunt lorem, id mattis massa. Nam efficitur magna sed urna ultrices, eget viverra tellus consequat. Nam non viverra nulla, vel auctor massa. Nullam at cursus orci. Sed finibus ex sit amet porta lacinia. Suspendisse at ex eu sapien euismod pharetra non in enim.
+En sentido estricto, la democracia es un tipo de organización del Estado en el cual las decisiones colectivas son adoptadas por el pueblo mediante mecanismos de participación directa o indirecta que confieren legitimidad a sus representantes.
 
-[NOTE]
-[caption="Nota"]
-Ut nec est aliquet, accumsan est at, placerat lectus. Curabitur vulputate purus eu tellus cursus eleifend. Suspendisse faucibus sit amet justo sit amet tincidunt. Quisque quis tortor tristique, condimentum sem sit amet, convallis tellus. Quisque vestibulum dignissim libero, et pharetra ex laoreet eu. Cras vehicula, mi vel imperdiet tempus, odio erat commodo lectus, quis tempus felis odio vitae nisl. Aenean placerat libero sit amet elit interdum suscipit. Etiam ut nisl ut nisl pharetra aliquam. Quisque maximus eu libero at consectetur. Fusce mauris tellus, sodales ac bibendum vel, consectetur sit amet augue. Curabitur at odio erat. Fusce rhoncus porttitor nisl ac elementum.
+La democracia debería abordar los desafíos institucionales y políticos que han socavado la democracia en el país en las últimas décadas. En general, se deben tomar medidas para fortalecer el estado de derecho, proteger los derechos humanos y fomentar una cultura democrática en el país. A continuación, se presentan algunas ideas clave para una política de la democracia necesaria para Venezuela:
 
-[IMPORTANT]
-[caption="Importante"]
-Pellentesque posuere, urna sed varius volutpat, elit dolor auctor mauris, quis tristique eros magna sit amet tortor. Praesent quis fermentum risus. Mauris eu mattis nulla, vitae fermentum erat. Pellentesque sed facilisis turpis. Fusce dapibus sem dui, eget finibus diam convallis et. Donec et ultricies dui. In ex felis, tristique eget mauris varius, tempus rutrum arcu. Sed varius efficitur mi ut lacinia. Phasellus vitae dolor imperdiet sapien tempor malesuada. Vivamus eget viverra arcu. Fusce nec magna feugiat, varius lacus elementum, tincidunt velit. https://github.com/orgs/redcuadrangular/discussions[discutir propuestas] o solicitar características y mejoras creando una https://github.com/redcuadrangular/docs/issues/new/choose[Nueva Incidencia]
+== Fortalecimiento de las instituciones democráticas
+La independencia del poder judicial, la transparencia en la gestión pública, la rendición de cuentas y el respeto a los derechos humanos son fundamentales para una democracia sólida. Se deben tomar medidas para fortalecer las instituciones democráticas y garantizar que sean independientes y efectivas.
+
+== Fomento de una cultura democrática
+La democracia no solo es un conjunto de instituciones, sino también una cultura que requiere del compromiso y la participación activa de los ciudadanos. Se deben tomar medidas para fomentar una cultura democrática en Venezuela, incluyendo la educación cívica, el fortalecimiento de los medios de comunicación independientes y la promoción de la participación ciudadana.
+
+== Garantía de elecciones libres y justas
+Las elecciones son un elemento fundamental de la democracia. Se deben tomar medidas para garantizar que las elecciones en Venezuela sean libres, justas y transparentes, y que se respeten los derechos políticos de todos los ciudadanos.
+
+== Protección de los derechos humanos
+La protección de los derechos humanos es esencial para una democracia sólida. Se deben tomar medidas para garantizar que los derechos humanos de todos los ciudadanos sean protegidos y respetados, incluyendo el derecho a la libertad de expresión, la libertad de prensa y la libertad de asociación.
+
+== Fomento del diálogo político
+El diálogo político es fundamental para resolver conflictos y alcanzar acuerdos en una democracia. Se deben tomar medidas para fomentar el diálogo político entre los diferentes actores políticos en Venezuela, incluyendo la promoción de la tolerancia y el respeto por las diferencias políticas.
+
+La democracia necesaria para Venezuela debería abordar los desafíos institucionales y políticos que han afectado la democracia en el país. Esto incluye el fortalecimiento de las instituciones democráticas, el fomento de una cultura democrática, la garantía de elecciones libres y justas, la protección de los derechos humanos y el fomento del diálogo político.
