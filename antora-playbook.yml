@@ -1,5 +1,5 @@
 site:
-  title: Red Cuadrangular
+  title: Neftalí Yagua
   start_page: ROOT::index.adoc
   robots: disallow
 content:
@@ -9,17 +9,17 @@ content:
     start_path: ROOT
   - url: .
     branches: HEAD
-    start_path: loco
+    start_path: proyecto
   - url: .
     branches: HEAD
-    start_path: portal
+    start_path: doctrina
 ui: 
   bundle:
-    url: https://redcuadrangular.github.io/theme-docs/ui-bundle.zip
+    url: https://neftaliyagua.github.io/theme-docs/ui-bundle.zip
     snapshot: true
 asciidoc:
   attributes:
-    page-component-sort-order: ROOT, loco, portal
+    page-component-sort-order: ROOT, proyecto, doctrina
 antora:
   extensions:
   - '@antora/lunr-extension'

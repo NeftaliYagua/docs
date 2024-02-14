@@ -1,0 +1,26 @@
+name: proyecto
+title: Proyecto
+version: ~
+#prerelease: -alfa.1
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+    url-org: https://github.com/redcuadrangular/
+    url-project: https://redcuadrangular.github.io/docs/
+nav:
+- modules/ROOT/nav.adoc
+- modules/agricultura/nav.adoc
+- modules/ambiente/nav.adoc
+- modules/ciencia/nav.adoc
+- modules/cultura/nav.adoc
+- modules/deportes/nav.adoc
+- modules/educacion/nav.adoc
+- modules/energia/nav.adoc
+- modules/estadistica/nav.adoc
+- modules/comunicacion/nav.adoc
+- modules/mineria/nav.adoc
+- modules/transporte/nav.adoc
+- modules/turismo/nav.adoc
+- modules/vivienda/nav.adoc
+- modules/salud/nav.adoc

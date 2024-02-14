@@ -1,2 +1,0 @@
-* Visión General
-** xref:index.adoc[]
