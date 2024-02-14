@@ -1,0 +1,9 @@
+* Políticas
+** xref:index.adoc[]
+** xref:democracia.adoc[]
+** xref:derecho.adoc[]
+** xref:descentralizacion.adoc[]
+** xref:economia.adoc[]
+** xref:empoderamiento.adoc[]
+** xref:meritocracia.adoc[]
+** xref:transparencia.adoc[]

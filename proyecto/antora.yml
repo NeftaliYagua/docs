@@ -11,6 +11,7 @@ asciidoc:
 nav:
 - modules/ROOT/nav.adoc
 - modules/crisis/nav.adoc
+- modules/politicas/nav.adoc
 - modules/agricultura/nav.adoc
 - modules/ambiente/nav.adoc
 - modules/ciencia/nav.adoc
