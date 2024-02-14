@@ -10,6 +10,7 @@ asciidoc:
     url-project: https://redcuadrangular.github.io/docs/
 nav:
 - modules/ROOT/nav.adoc
+- modules/crisis/nav.adoc
 - modules/agricultura/nav.adoc
 - modules/ambiente/nav.adoc
 - modules/ciencia/nav.adoc

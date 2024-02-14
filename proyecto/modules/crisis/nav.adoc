@@ -1,0 +1,9 @@
+* Crísis
+** xref:index.adoc[]
+** xref:energetica.adoc[]
+** xref:económica.adoc[]
+** xref:institucional.adoc[]
+** xref:alimentaria.adoc[]
+** xref:migratoria.adoc[]
+** xref:sanitaria.adoc[]
+** xref:social.adoc[]
