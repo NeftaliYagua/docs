@@ -1,12 +1,20 @@
 = Crísis alimentaria
 
-[example]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor sit amet odio faucibus ornare ac eu enim. Nunc non mi accumsan, congue erat vitae, gravida quam. Etiam ex nisi, accumsan id commodo id, tempus vel tortor. Proin varius scelerisque vehicula. Maecenas auctor eros odio, ac pellentesque turpis maximus vel. Fusce quis tincidunt lorem, id mattis massa. Nam efficitur magna sed urna ultrices, eget viverra tellus consequat. Nam non viverra nulla, vel auctor massa. Nullam at cursus orci. Sed finibus ex sit amet porta lacinia. Suspendisse at ex eu sapien euismod pharetra non in enim.
+La crisis alimentaria en Venezuela ha afectado a millones de personas y ha sido causada por una combinación de factores, como la falta de inversión en agricultura, la inestabilidad económica, la corrupción y las sanciones internacionales. Para abordar esta crisis, se necesitan soluciones integrales y a largo plazo. A continuación, se presentan algunas propuestas de soluciones:
 
-[NOTE]
-[caption="Nota"]
-Ut nec est aliquet, accumsan est at, placerat lectus. Curabitur vulputate purus eu tellus cursus eleifend. Suspendisse faucibus sit amet justo sit amet tincidunt. Quisque quis tortor tristique, condimentum sem sit amet, convallis tellus. Quisque vestibulum dignissim libero, et pharetra ex laoreet eu. Cras vehicula, mi vel imperdiet tempus, odio erat commodo lectus, quis tempus felis odio vitae nisl. Aenean placerat libero sit amet elit interdum suscipit. Etiam ut nisl ut nisl pharetra aliquam. Quisque maximus eu libero at consectetur. Fusce mauris tellus, sodales ac bibendum vel, consectetur sit amet augue. Curabitur at odio erat. Fusce rhoncus porttitor nisl ac elementum.
+== Inversión en la agricultura
+Se debe invertir en la producción agrícola para aumentar la producción de alimentos en el país. Esto incluye proporcionar insumos y herramientas agrícolas, así como la capacitación y asistencia técnica a los agricultores. Además, se debería establecer políticas para la protección de la tierra y la conservación del medio ambiente.
 
-[IMPORTANT]
-[caption="Importante"]
-Pellentesque posuere, urna sed varius volutpat, elit dolor auctor mauris, quis tristique eros magna sit amet tortor. Praesent quis fermentum risus. Mauris eu mattis nulla, vitae fermentum erat. Pellentesque sed facilisis turpis. Fusce dapibus sem dui, eget finibus diam convallis et. Donec et ultricies dui. In ex felis, tristique eget mauris varius, tempus rutrum arcu. Sed varius efficitur mi ut lacinia. Phasellus vitae dolor imperdiet sapien tempor malesuada. Vivamus eget viverra arcu. Fusce nec magna feugiat, varius lacus elementum, tincidunt velit. https://github.com/orgs/redcuadrangular/discussions[discutir propuestas] o solicitar características y mejoras creando una https://github.com/redcuadrangular/docs/issues/new/choose[Nueva Incidencia]
+== Mejora de la distribución de alimentos
+Es necesario mejorar la distribución de alimentos en el país, especialmente en las zonas más vulnerables. Esto se puede lograr mediante la creación de redes de distribución eficientes y eficaces, y la eliminación de obstáculos burocráticos y de corrupción. También es necesario garantizar la seguridad y calidad de los alimentos distribuidos.
+
+== Fortalecimiento de la seguridad alimentaria
+La seguridad alimentaria debe ser una prioridad en la política pública. Se debería crear un sistema de monitoreo y seguimiento de la situación alimentaria en el país y promover el acceso de la población a alimentos nutritivos y suficientes. Asimismo, se debería asegurar el acceso a agua potable y servicios de saneamiento básico para evitar enfermedades que puedan afectar la salud de la población.
+
+== Fomento de la producción y consumo de alimentos locales
+El fomento de la producción y el consumo de alimentos locales puede ayudar a reducir la dependencia de los productos importados y a fortalecer la economía local. Se debería promover la agricultura urbana y periurbana, así como el comercio justo y la venta directa de productos locales.
+
+== Cooperación internacional
+La cooperación internacional es esencial para abordar la crisis alimentaria en Venezuela. Los organismos internacionales y los gobiernos extranjeros deberían proporcionar ayuda humanitaria y asistencia técnica, así como aliviar las sanciones económicas que han contribuido a la crisis.
+
+Para abordar la crisis alimentaria se necesita una respuesta integral y a largo plazo que involucre la inversión en la agricultura, la mejora de la distribución de alimentos, el fortalecimiento de la seguridad alimentaria, el fomento de la producción y consumo de alimentos locales, y la cooperación internacional.
