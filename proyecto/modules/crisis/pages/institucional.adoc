@@ -1,12 +1,21 @@
 = Crísis institucional
 
-[example]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor sit amet odio faucibus ornare ac eu enim. Nunc non mi accumsan, congue erat vitae, gravida quam. Etiam ex nisi, accumsan id commodo id, tempus vel tortor. Proin varius scelerisque vehicula. Maecenas auctor eros odio, ac pellentesque turpis maximus vel. Fusce quis tincidunt lorem, id mattis massa. Nam efficitur magna sed urna ultrices, eget viverra tellus consequat. Nam non viverra nulla, vel auctor massa. Nullam at cursus orci. Sed finibus ex sit amet porta lacinia. Suspendisse at ex eu sapien euismod pharetra non in enim.
+== La crisis institucional se ha profundizado en los últimos años debido a la polarización política
 
-[NOTE]
-[caption="Nota"]
-Ut nec est aliquet, accumsan est at, placerat lectus. Curabitur vulputate purus eu tellus cursus eleifend. Suspendisse faucibus sit amet justo sit amet tincidunt. Quisque quis tortor tristique, condimentum sem sit amet, convallis tellus. Quisque vestibulum dignissim libero, et pharetra ex laoreet eu. Cras vehicula, mi vel imperdiet tempus, odio erat commodo lectus, quis tempus felis odio vitae nisl. Aenean placerat libero sit amet elit interdum suscipit. Etiam ut nisl ut nisl pharetra aliquam. Quisque maximus eu libero at consectetur. Fusce mauris tellus, sodales ac bibendum vel, consectetur sit amet augue. Curabitur at odio erat. Fusce rhoncus porttitor nisl ac elementum.
+La crisis institucional se ha profundizado en los últimos años debido a la polarización política, la falta de independencia de los poderes del Estado, la corrupción y la violación de los derechos humanos. A continuación, presento algunas propuestas para abordar esta crisis:
 
-[IMPORTANT]
-[caption="Importante"]
-Pellentesque posuere, urna sed varius volutpat, elit dolor auctor mauris, quis tristique eros magna sit amet tortor. Praesent quis fermentum risus. Mauris eu mattis nulla, vitae fermentum erat. Pellentesque sed facilisis turpis. Fusce dapibus sem dui, eget finibus diam convallis et. Donec et ultricies dui. In ex felis, tristique eget mauris varius, tempus rutrum arcu. Sed varius efficitur mi ut lacinia. Phasellus vitae dolor imperdiet sapien tempor malesuada. Vivamus eget viverra arcu. Fusce nec magna feugiat, varius lacus elementum, tincidunt velit. https://github.com/orgs/redcuadrangular/discussions[discutir propuestas] o solicitar características y mejoras creando una https://github.com/redcuadrangular/docs/issues/new/choose[Nueva Incidencia]
+=== La separación de los poderes del Estado
+
+Es fundamental garantizar la independencia del poder judicial, la fiscalía y la defensoría del pueblo para asegurar que se respeten los derechos humanos y se combata la corrupción. El gobierno debería tomar medidas para fortalecer la independencia de estos poderes, como la elección de jueces y fiscales por medio de procesos transparentes y democráticos. En principio el poder ejecutivo, el Poder Legislativo y el Judicial deben estar separados.
+
+=== Promover la participación ciudadana
+La participación ciudadana es esencial para el fortalecimiento de la democracia. El gobierno debería promover la participación ciudadana en la toma de decisiones y garantizar el respeto a la libertad de expresión y la libertad de prensa.
+
+=== Combatir la corrupción
+La corrupción es uno de los mayores problemas en Venezuela y es necesario combatirla de manera efectiva. El gobierno debe tomar medidas para fortalecer las instituciones encargadas de combatir la corrupción y garantizar que los responsables sean llevados ante la justicia.
+
+=== Fomentar el diálogo y la reconciliación
+La polarización política ha sido uno de los principales obstáculos para la resolución de la crisis institucional en Venezuela. Es necesario fomentar el diálogo y la reconciliación entre las diferentes fuerzas políticas y sociales del país.
+
+=== Implementar reformas electorales
+Las elecciones libres y justas son fundamentales para la democracia. El gobierno debería implementar reformas electorales que garanticen la transparencia y la equidad en el proceso electoral y la independencia del Consejo Nacional Electoral.

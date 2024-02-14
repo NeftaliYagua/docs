@@ -1,12 +1,23 @@
 = Crísis sanitaria
 
-[example]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor sit amet odio faucibus ornare ac eu enim. Nunc non mi accumsan, congue erat vitae, gravida quam. Etiam ex nisi, accumsan id commodo id, tempus vel tortor. Proin varius scelerisque vehicula. Maecenas auctor eros odio, ac pellentesque turpis maximus vel. Fusce quis tincidunt lorem, id mattis massa. Nam efficitur magna sed urna ultrices, eget viverra tellus consequat. Nam non viverra nulla, vel auctor massa. Nullam at cursus orci. Sed finibus ex sit amet porta lacinia. Suspendisse at ex eu sapien euismod pharetra non in enim.
+La crisis sanitaria en Venezuela ha sido un problema grave en los últimos años, agravado por la falta de inversión y recursos para el sector salud. A continuación, se presentan algunas propuestas de soluciones para abordar la situación:
 
-[NOTE]
-[caption="Nota"]
-Ut nec est aliquet, accumsan est at, placerat lectus. Curabitur vulputate purus eu tellus cursus eleifend. Suspendisse faucibus sit amet justo sit amet tincidunt. Quisque quis tortor tristique, condimentum sem sit amet, convallis tellus. Quisque vestibulum dignissim libero, et pharetra ex laoreet eu. Cras vehicula, mi vel imperdiet tempus, odio erat commodo lectus, quis tempus felis odio vitae nisl. Aenean placerat libero sit amet elit interdum suscipit. Etiam ut nisl ut nisl pharetra aliquam. Quisque maximus eu libero at consectetur. Fusce mauris tellus, sodales ac bibendum vel, consectetur sit amet augue. Curabitur at odio erat. Fusce rhoncus porttitor nisl ac elementum.
+== Fortalecimiento del sistema de salud
+Se debe aumentar la inversión en el sistema de salud, para mejorar la infraestructura, dotación de equipos y medicamentos, y la formación del personal médico. Es necesario establecer planes a largo plazo para garantizar un sistema de salud efectivo y sostenible.
 
-[IMPORTANT]
-[caption="Importante"]
-Pellentesque posuere, urna sed varius volutpat, elit dolor auctor mauris, quis tristique eros magna sit amet tortor. Praesent quis fermentum risus. Mauris eu mattis nulla, vitae fermentum erat. Pellentesque sed facilisis turpis. Fusce dapibus sem dui, eget finibus diam convallis et. Donec et ultricies dui. In ex felis, tristique eget mauris varius, tempus rutrum arcu. Sed varius efficitur mi ut lacinia. Phasellus vitae dolor imperdiet sapien tempor malesuada. Vivamus eget viverra arcu. Fusce nec magna feugiat, varius lacus elementum, tincidunt velit. https://github.com/orgs/redcuadrangular/discussions[discutir propuestas] o solicitar características y mejoras creando una https://github.com/redcuadrangular/docs/issues/new/choose[Nueva Incidencia]
+== Programas de prevención
+Es necesario implementar programas de prevención para evitar enfermedades, especialmente las relacionadas con la falta de agua potable, saneamiento y nutrición. Estos programas deben estar enfocados en la educación de la población para prevenir enfermedades como el dengue, la malaria y otras enfermedades transmitidas por vectores.
+
+== Acceso a medicamentos
+Se debe garantizar el acceso a medicamentos esenciales y suministros médicos, incluyendo vacunas y antídotos, en todo el país. Esto se puede lograr a través de acuerdos con otros países y organizaciones internacionales, así como la promoción de la producción local de medicamentos.
+
+== Mejora de la infraestructura sanitaria
+Se debe mejorar la infraestructura sanitaria en todo el país, especialmente en áreas remotas. Se deben construir hospitales y centros de atención médica que puedan atender las necesidades de la población en esas zonas.
+
+== Programas de salud mental
+Se debe abordar la salud mental de la población, que se ha visto afectada por el estrés y la ansiedad causados por la crisis. Es necesario desarrollar programas de atención psicológica para brindar apoyo a la población en situaciones de crisis y trauma.
+
+== Incentivos para el personal médico
+Se deben establecer incentivos para el personal médico, incluyendo mejoras salariales y mejores condiciones laborales, para retener y atraer a más profesionales de la salud. Esto ayudará a garantizar que haya suficiente personal médico para atender a la población.
+
+La crisis sanitaria en Venezuela requiere un enfoque integral y de largo plazo que incluya la inversión en el sistema de salud, programas de prevención, acceso a medicamentos, mejora de la infraestructura sanitaria, programas de salud mental y incentivos para el personal médico. Estas medidas pueden ayudar a garantizar que la población tenga acceso a servicios de salud de calidad y se reduzca el impacto de la crisis sanitaria.

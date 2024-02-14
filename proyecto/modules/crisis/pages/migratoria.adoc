@@ -1,12 +1,21 @@
 = Crísis migratoria
 
-[example]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor sit amet odio faucibus ornare ac eu enim. Nunc non mi accumsan, congue erat vitae, gravida quam. Etiam ex nisi, accumsan id commodo id, tempus vel tortor. Proin varius scelerisque vehicula. Maecenas auctor eros odio, ac pellentesque turpis maximus vel. Fusce quis tincidunt lorem, id mattis massa. Nam efficitur magna sed urna ultrices, eget viverra tellus consequat. Nam non viverra nulla, vel auctor massa. Nullam at cursus orci. Sed finibus ex sit amet porta lacinia. Suspendisse at ex eu sapien euismod pharetra non in enim.
+== La crisis migratoria de Venezuela es uno de los mayores desafíos que enfrenta el país.
+Según la ONU, más de 5 millones de personas han salido de Venezuela debido a la crisis política, económica y social. A continuación, presento algunas propuestas para abordar esta crisis:
 
-[NOTE]
-[caption="Nota"]
-Ut nec est aliquet, accumsan est at, placerat lectus. Curabitur vulputate purus eu tellus cursus eleifend. Suspendisse faucibus sit amet justo sit amet tincidunt. Quisque quis tortor tristique, condimentum sem sit amet, convallis tellus. Quisque vestibulum dignissim libero, et pharetra ex laoreet eu. Cras vehicula, mi vel imperdiet tempus, odio erat commodo lectus, quis tempus felis odio vitae nisl. Aenean placerat libero sit amet elit interdum suscipit. Etiam ut nisl ut nisl pharetra aliquam. Quisque maximus eu libero at consectetur. Fusce mauris tellus, sodales ac bibendum vel, consectetur sit amet augue. Curabitur at odio erat. Fusce rhoncus porttitor nisl ac elementum.
+=== Coordinación regional e internacional
+La crisis migratoria en Venezuela es un problema que afecta a toda la región. Es necesario que los países vecinos y la comunidad internacional trabajen en conjunto para abordar esta situación, proporcionando apoyo financiero, asistencia humanitaria y políticas de integración para los migrantes.
 
-[IMPORTANT]
-[caption="Importante"]
-Pellentesque posuere, urna sed varius volutpat, elit dolor auctor mauris, quis tristique eros magna sit amet tortor. Praesent quis fermentum risus. Mauris eu mattis nulla, vitae fermentum erat. Pellentesque sed facilisis turpis. Fusce dapibus sem dui, eget finibus diam convallis et. Donec et ultricies dui. In ex felis, tristique eget mauris varius, tempus rutrum arcu. Sed varius efficitur mi ut lacinia. Phasellus vitae dolor imperdiet sapien tempor malesuada. Vivamus eget viverra arcu. Fusce nec magna feugiat, varius lacus elementum, tincidunt velit. https://github.com/orgs/redcuadrangular/discussions[discutir propuestas] o solicitar características y mejoras creando una https://github.com/redcuadrangular/docs/issues/new/choose[Nueva Incidencia]
+=== Protección y asistencia humanitaria
+Los migrantes venezolanos necesitan protección y asistencia humanitaria. Los países vecinos y la comunidad internacional deberían proporcionar refugio temporal, atención médica y otros servicios básicos para garantizar la dignidad y el bienestar de los migrantes.
+
+=== Integración y acceso a empleo
+La integración económica y social de los migrantes es fundamental para su bienestar y para evitar la explotación laboral. Los países de acogida deberían implementar políticas que faciliten el acceso de los migrantes al mercado laboral y a los servicios sociales.
+
+=== Facilitación del retorno voluntario
+Para aquellos migrantes que desean regresar a Venezuela, es necesario que el gobierno facilite el retorno voluntario de manera segura y digna. El gobierno debería proporcionar apoyo financiero y servicios de reintegración para garantizar una transición segura y efectiva.
+
+=== Enfrentar las causas subyacentes de la crisis
+Para abordar la crisis migratoria de manera efectiva, es necesario enfrentar las causas subyacentes de la misma. El gobierno venezolano debería tomar medidas para resolver la crisis política y económica, garantizar el respeto a los derechos humanos y promover la estabilidad y la paz en el país.
+
+La solución a la crisis migratoria de Venezuela requiere de una combinación de medidas a corto y largo plazo que incluyan la coordinación regional e internacional, la protección y asistencia humanitaria, la integración y acceso a empleo, la facilitación del retorno voluntario y el enfrentamiento de las causas subyacentes de la crisis.

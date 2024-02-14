@@ -1,12 +1,17 @@
 = Crísis energética
 
-[example]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor sit amet odio faucibus ornare ac eu enim. Nunc non mi accumsan, congue erat vitae, gravida quam. Etiam ex nisi, accumsan id commodo id, tempus vel tortor. Proin varius scelerisque vehicula. Maecenas auctor eros odio, ac pellentesque turpis maximus vel. Fusce quis tincidunt lorem, id mattis massa. Nam efficitur magna sed urna ultrices, eget viverra tellus consequat. Nam non viverra nulla, vel auctor massa. Nullam at cursus orci. Sed finibus ex sit amet porta lacinia. Suspendisse at ex eu sapien euismod pharetra non in enim.
+== Cómo podemos resolver la crisis energética en Venezuela.
 
-[NOTE]
-[caption="Nota"]
-Ut nec est aliquet, accumsan est at, placerat lectus. Curabitur vulputate purus eu tellus cursus eleifend. Suspendisse faucibus sit amet justo sit amet tincidunt. Quisque quis tortor tristique, condimentum sem sit amet, convallis tellus. Quisque vestibulum dignissim libero, et pharetra ex laoreet eu. Cras vehicula, mi vel imperdiet tempus, odio erat commodo lectus, quis tempus felis odio vitae nisl. Aenean placerat libero sit amet elit interdum suscipit. Etiam ut nisl ut nisl pharetra aliquam. Quisque maximus eu libero at consectetur. Fusce mauris tellus, sodales ac bibendum vel, consectetur sit amet augue. Curabitur at odio erat. Fusce rhoncus porttitor nisl ac elementum.
+La crisis energética en Venezuela ha sido un problema persistente en los últimos años, y se ha intensificado debido a la falta de mantenimiento y renovación de la infraestructura eléctrica, así como a la disminución de la producción de petróleo, la principal fuente de ingresos del país. A continuación, presento algunas propuestas para abordar esta crisis:
 
-[IMPORTANT]
-[caption="Importante"]
-Pellentesque posuere, urna sed varius volutpat, elit dolor auctor mauris, quis tristique eros magna sit amet tortor. Praesent quis fermentum risus. Mauris eu mattis nulla, vitae fermentum erat. Pellentesque sed facilisis turpis. Fusce dapibus sem dui, eget finibus diam convallis et. Donec et ultricies dui. In ex felis, tristique eget mauris varius, tempus rutrum arcu. Sed varius efficitur mi ut lacinia. Phasellus vitae dolor imperdiet sapien tempor malesuada. Vivamus eget viverra arcu. Fusce nec magna feugiat, varius lacus elementum, tincidunt velit. https://github.com/orgs/redcuadrangular/discussions[discutir propuestas] o solicitar características y mejoras creando una https://github.com/redcuadrangular/docs/issues/new/choose[Nueva Incidencia]
+=== Promover la inversión en energías renovables
+Venezuela cuenta con un gran potencial para el desarrollo de energías renovables, como la energía solar, eólica e hidroeléctrica. El gobierno podría promover la inversión en proyectos de energías renovables para diversificar la matriz energética del país y reducir la dependencia del petróleo.
+
+=== Mejorar la eficiencia energética
+La eficiencia energética es fundamental para reducir el consumo de energía y disminuir los costos de producción. Se pueden implementar medidas para mejorar la eficiencia en el uso de energía en edificios públicos y privados, así como en la industria. Podríamos implementar cortinas y techos de vidrio fotovoltaíco, que ofrece no solo buenos resultados estéticos, sino una solución realmente autosostenible.
+
+=== Modernizar la infraestructura eléctrica
+La infraestructura eléctrica de Venezuela necesita una renovación urgente. El gobierno podría invertir en la modernización y mantenimiento de la red eléctrica para garantizar un suministro eléctrico confiable y seguro.
+
+=== Fomentar el uso de tecnologías más eficientes
+Se pueden promover programas de incentivos para que las empresas y los hogares adopten tecnologías más eficientes en el consumo de energía, como electrodomésticos de bajo consumo y sistemas de iluminación LED.

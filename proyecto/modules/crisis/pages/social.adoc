@@ -1,12 +1,20 @@
 = Crísis social
 
-[example]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor sit amet odio faucibus ornare ac eu enim. Nunc non mi accumsan, congue erat vitae, gravida quam. Etiam ex nisi, accumsan id commodo id, tempus vel tortor. Proin varius scelerisque vehicula. Maecenas auctor eros odio, ac pellentesque turpis maximus vel. Fusce quis tincidunt lorem, id mattis massa. Nam efficitur magna sed urna ultrices, eget viverra tellus consequat. Nam non viverra nulla, vel auctor massa. Nullam at cursus orci. Sed finibus ex sit amet porta lacinia. Suspendisse at ex eu sapien euismod pharetra non in enim.
+La crisis social de Venezuela es un problema que ha afectado a millones de personas en el país. La escasez de alimentos, medicinas y otros bienes básicos, así como la falta de seguridad y la violencia, han tenido un impacto devastador en la población. A continuación, presento algunas propuestas para abordar esta crisis:
 
-[NOTE]
-[caption="Nota"]
-Ut nec est aliquet, accumsan est at, placerat lectus. Curabitur vulputate purus eu tellus cursus eleifend. Suspendisse faucibus sit amet justo sit amet tincidunt. Quisque quis tortor tristique, condimentum sem sit amet, convallis tellus. Quisque vestibulum dignissim libero, et pharetra ex laoreet eu. Cras vehicula, mi vel imperdiet tempus, odio erat commodo lectus, quis tempus felis odio vitae nisl. Aenean placerat libero sit amet elit interdum suscipit. Etiam ut nisl ut nisl pharetra aliquam. Quisque maximus eu libero at consectetur. Fusce mauris tellus, sodales ac bibendum vel, consectetur sit amet augue. Curabitur at odio erat. Fusce rhoncus porttitor nisl ac elementum.
+== Garantizar el acceso a bienes y servicios básicos
+El gobierno venezolano debería tomar medidas para garantizar el acceso de la población a alimentos, medicinas y otros bienes básicos. Esto incluye la eliminación de barreras comerciales, la inversión en infraestructura y la implementación de políticas de protección social.
 
-[IMPORTANT]
-[caption="Importante"]
-Pellentesque posuere, urna sed varius volutpat, elit dolor auctor mauris, quis tristique eros magna sit amet tortor. Praesent quis fermentum risus. Mauris eu mattis nulla, vitae fermentum erat. Pellentesque sed facilisis turpis. Fusce dapibus sem dui, eget finibus diam convallis et. Donec et ultricies dui. In ex felis, tristique eget mauris varius, tempus rutrum arcu. Sed varius efficitur mi ut lacinia. Phasellus vitae dolor imperdiet sapien tempor malesuada. Vivamus eget viverra arcu. Fusce nec magna feugiat, varius lacus elementum, tincidunt velit. https://github.com/orgs/redcuadrangular/discussions[discutir propuestas] o solicitar características y mejoras creando una https://github.com/redcuadrangular/docs/issues/new/choose[Nueva Incidencia]
+== Mejorar la seguridad ciudadana
+La falta de seguridad y la violencia son problemas crónicos en Venezuela. El gobierno debería tomar medidas para mejorar la seguridad ciudadana, incluyendo la reforma del sistema de justicia, el fortalecimiento de las fuerzas de seguridad y la implementación de políticas de prevención del delito.
+
+== Promover la inclusión social
+La exclusión social es un problema que afecta a muchos venezolanos. El gobierno debería promover políticas de inclusión social, como la educación, la salud y el acceso a la vivienda, para garantizar que todos los ciudadanos tengan las mismas oportunidades.
+
+== Fortalecer la sociedad civil
+La sociedad civil es un actor clave en la promoción de la democracia y la defensa de los derechos humanos. El gobierno debería tomar medidas para fortalecer la sociedad civil, incluyendo la promoción de la libertad de asociación y la protección de los derechos humanos.
+
+== Fomentar el diálogo y la reconciliación
+La polarización política y social ha sido un obstáculo para la resolución de la crisis social en Venezuela. El gobierno debería fomentar el diálogo y la reconciliación entre los diferentes actores sociales y políticos para lograr una solución pacífica y duradera.
+
+La solución a la crisis social de Venezuela requiere de una combinación de medidas a corto y largo plazo que incluyan el acceso a bienes y servicios básicos, la mejora de la seguridad ciudadana, la promoción de la inclusión social, el fortalecimiento de la sociedad civil y el fomento del diálogo y la reconciliación.
